@@ -1,0 +1,11 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is B294-2B2B
+
+ Directory of C:\Users\sgawas\Desktop\GitProject
+
+10/31/2016  02:30 PM    <DIR>          .
+10/31/2016  02:30 PM    <DIR>          ..
+10/31/2016  02:27 PM    <DIR>          .git
+10/31/2016  02:30 PM                 0 test.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  74,358,513,664 bytes free
